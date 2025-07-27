@@ -1,0 +1,27 @@
+/* Header */
+header {
+  background-color: #fff; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+}
+
+/* Banner Section */
+section.banner {
+  background-image: url("image/css_advanced/Object.png"); 
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 100px 30px;
+}
+
+.banner h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-top: 10px;
+}
