@@ -1,18 +1,41 @@
-# Smile School Homepage
+🎧 Headphones Webpage
+📌 Project Description
+This project is about building a Headphones product landing page from scratch, without using any external libraries or JavaScript.
+It is developed using HTML and CSS only, following responsive design and accessibility best practices.
+The goal is to create a fully functional webpage that matches the provided Figma design and works seamlessly across all screen sizes (desktop, tablet, and mobile).
 
-This project is part of the **ALX Software Engineering** program. It focuses on applying **advanced HTML and CSS** concepts by replicating a webpage from a given design (Figma file).
+🚀 How to Run the Project
+Clone the repository
 
-## 🌐 Project Objectives
+bash
 
-- Recreate the homepage design using semantic HTML5
-- Style the page according to the design using Flexbox, fonts, colors, and images
-- Responsive layout (basic level)
-- Understand the importance of design-to-code accuracy
+git clone https://github.com/SOSOMACO/alx_html_css.git
+Navigate to the project folder
 
-## 🎨 Design Reference
+bash
 
-The original design was created in Figma.  
-You can view it[here]https://www.figma.com/design/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?node-id=0-1&t=ymAjVe1MUFyVMwyM-1
+cd alx_html_css/headphones
+Open the page
 
-## 📁 Project Structure
+Open the index.html file directly in your browser.
 
+📝 Design & Implementation Notes
+Do not use any external CSS frameworks such as Bootstrap.
+
+Do not use JavaScript — the project is purely HTML and CSS.
+
+Maximum content width: 1000px, centered on the page.
+
+When the screen width is 480px or less, the layout must switch to the mobile version.
+
+Links hover/active color: #FF6565.
+
+Buttons hover/active state: opacity: 0.9.
+
+If you don’t have the fonts installed on your computer, use:
+
+Source Sans Pro
+
+Spin Cycle OT
+
+Some values in the design may be in float; feel free to round them.
