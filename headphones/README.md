@@ -8,14 +8,12 @@ The goal is to create a fully functional webpage that matches the provided Figma
 Clone the repository
 
 bash
-نسخ
-تحرير
-git clone https://github.com/SOSONACO/alx_html_css.git
+
+git clone https://github.com/SOSOMACO/alx_html_css.git
 Navigate to the project folder
 
 bash
-نسخ
-تحرير
+
 cd alx_html_css/headphones
 Open the page
 
